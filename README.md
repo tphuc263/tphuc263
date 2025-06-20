@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **Java, Spring Boot, Spring security, JPA**
+- 💬 Ask me about **backend development and system design patterns**
 
 - 📫 How to reach me **tphuc.ptit@gmail.com**
-
-- ⚡ Fun fact **I think am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
