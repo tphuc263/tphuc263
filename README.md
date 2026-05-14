@@ -19,8 +19,8 @@
       </a>
     </td>
     <td>
-      <a href="https://www.leetcode.com/tphuc263" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+      <a href="mailto:tphuc263@gmail.com" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
       </a>
     </td>
   </tr>
