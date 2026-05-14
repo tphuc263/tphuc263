@@ -15,14 +15,12 @@
   <tr>
     <td>
       <a href="https://linkedin.com/in/tphuc263" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" height="30" />
       </a>
     </td>
     <td>
       <a href="mailto:tphuc263@gmail.com" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-      </a>
-    </td>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" height="30" />    </td>
   </tr>
 </table>
 
